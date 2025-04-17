@@ -1,6 +1,6 @@
 1-) BEDEL
   It is a game that we made in METU GATES GameJam-101. It is a top-down shooter game.
-Link : https://itch.io/jam/metu-gates-game-jam-101/rate/2391269
+Link : https://dibrojga.itch.io/bedel
 
 2-) TETRIS
   Just tetris
