@@ -25,3 +25,7 @@ Link :  https://osmangelmez.itch.io/overgrown
 7-) OVERCLOCKED
   A simulation game made in Winter is Jamming.
 Link : https://3k-mek.itch.io/overclocked
+
+8-) MENTASTRONAUT
+  An arcade game made in Global Game Jam 2025. You are an peppermint candy and want to be an astronaut. For reaching to the space use some coke bubbles.
+Link: https://globalgamejam.org/games/2025/mentastranout-1
